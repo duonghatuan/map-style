@@ -3399,6 +3399,9 @@
       "type": "symbol",
       "source": "basemap",
       "source-layer": "poi",
+      "layout": {
+        "visible": "none"
+      },
       "minzoom": 18,
       "filter": [
         "all",
@@ -4013,6 +4016,9 @@
       "type": "symbol",
       "source": "basemap",
       "source-layer": "poi",
+      "layout": {
+        "visible": "none"
+      },
       "minzoom": 18,
       "filter": [
         "all",
@@ -4054,6 +4060,9 @@
       "type": "symbol",
       "source": "basemap",
       "source-layer": "poi",
+      "layout": {
+        "visible": "none"
+      },
       "minzoom": 14,
       "filter": [
         "all",
@@ -4249,6 +4258,9 @@
       "type": "symbol",
       "source": "basemap",
       "source-layer": "poi",
+      "layout": {
+        "visible": "none"
+      },
       "minzoom": 15,
       "filter": [
         "all",
@@ -4325,6 +4337,9 @@
       "type": "symbol",
       "source": "basemap",
       "source-layer": "poi",
+      "layout": {
+        "visible": "none"
+      },
       "minzoom": 15,
       "filter": [
         "all",
@@ -4401,6 +4416,9 @@
       "type": "symbol",
       "source": "basemap",
       "source-layer": "poi",
+      "layout": {
+        "visible": "none"
+      },
       "minzoom": 10,
       "filter": [
         "all",
@@ -4477,6 +4495,9 @@
       "type": "symbol",
       "source": "basemap",
       "source-layer": "poi",
+      "layout": {
+        "visible": "none"
+      },
       "minzoom": 15,
       "filter": [
         "all",
@@ -4539,6 +4560,9 @@
       "type": "symbol",
       "source": "basemap",
       "source-layer": "poi",
+      "layout": {
+        "visible": "none"
+      },
       "minzoom": 15,
       "filter": [
         "all",
