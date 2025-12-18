@@ -5060,11 +5060,11 @@
           ],
           [
             "get",
-            "name:en"
+            "name:vi"
           ]
         ],
         "text-font": [
-          "DIN Pro Bold"
+          "Arial Unicode MS Bold"
         ],
         "text-max-width": 10,
         "text-size": {
